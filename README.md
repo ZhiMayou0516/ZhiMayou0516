@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
 
@@ -97,6 +96,7 @@ A medical image segmentation task based on the UW-Madison dataset, focusing on i
 **Keywords:** Lung Tumor Segmentation · Medical Imaging · Deep Learning · Jupyter Notebook
 
 ---
+<!-- 
 '''
 ### Facial Muscle Segmentation
 
@@ -126,6 +126,9 @@ A Python-based LEGO EV3 robotics project for robotics programming, sensor contro
 
 ---
 '''
+
+这是一段被注释掉的文字 -->
+
 ## Tech Stack
 
 **Programming:** Python, MATLAB, R, Verilog HDL, LaTeX, Kotlin  
