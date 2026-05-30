@@ -33,6 +33,8 @@ My recent work mainly falls into four directions:
 Research project related to **MICCAI 2026**, focusing on synthetic supervised pre-training for medical image segmentation.  
 The project explores how anatomical priors, spatial anchors, and topology-aware constraints can generate anatomically plausible synthetic image-label pairs for downstream segmentation models.
 
+**view preprint：https://arxiv.org/abs/2603.00979**
+
 **Repository:** `fdsl`  
 **Keywords:** Medical Segmentation · Synthetic Data · UNETR · SwinUNETR · MICCAI
 
